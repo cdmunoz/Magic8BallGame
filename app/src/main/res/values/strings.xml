@@ -1,0 +1,28 @@
+<resources>
+  <string name="app_name">Magic 8 Ball Game</string>
+  <string name="shake_me">Shake me</string>
+  <string name="shake_menu">Shake</string>
+
+  <string-array name="answers">
+    <item>It is \ncertain</item>
+    <item>It is \ndecidedly \nso</item>
+    <item>Without \na doubt</item>
+    <item>Yes \ndefinitely</item>
+    <item>You may \nrely on \nit</item>
+    <item>As I see it,\n yes</item>
+    <item>Most \nlikely</item>
+    <item>Outlook \ngood</item>
+    <item>Yes</item>
+    <item>Signs point \nto yes</item>
+    <item>Reply hazy \ntry again</item>
+    <item>Ask again \nlater</item>
+    <item>Better not \ntell you \nnow</item>
+    <item>Cannot \npredict \nnow</item>
+    <item>Concentrate \nand ask \nagain</item>
+    <item>Don\'t \ncount on \nit</item>
+    <item>My reply \nis no</item>
+    <item>My sources \nsay no</item>
+    <item>Outlook \nnot so \ngood</item>
+    <item>Very \ndoubtful</item>
+  </string-array>
+</resources>
